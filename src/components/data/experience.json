@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "role": "Data Science Training",
+      "organisation": "Webskitter Academy",
+      "startDate": "Jan, 2024",
+      "endDate": "Feb,2024",
+      "location": "kolkata",
+      "experiences": [
+        "Learn Flask Framework ,",
+        "Study and implemented various Machine learing algorithms."
+      ],
+      "imageSrc": "company/web.png"
+    },
+    {
+      "id": 2,
+      "role": "AI- Fundamental Course",
+      "organisation": "IBM",
+      "startDate": "Jul, 2024",
+      "endDate": "Aug, 2024",
+      "Mode": "Online",
+      "experiences": [
+        "Learn About AI Fundamentals"
+        
+      ],
+      "imageSrc": "company/IBM.png"
+    },
+    {
+      "id": 3,
+      "role": "Project Management Fundamentals course",
+      "organisation": "IBM",
+      "startDate": "JUL, 2024",
+      "endDate": "AUG, 2024",
+      "Mode": "Online",
+      "imageSrc": "company/IBM.png"
+    }
+  ]
